@@ -1,0 +1,1044 @@
+{
+   "admitted" : [
+      {
+         "department_no" : "D014",
+         "member" : "031502512"
+      },
+      {
+         "department_no" : "D014",
+         "member" : "031502619"
+      },
+      {
+         "department_no" : "D006",
+         "member" : "031502344"
+      },
+      {
+         "department_no" : "D008",
+         "member" : "031502421"
+      },
+      {
+         "department_no" : "D014",
+         "member" : "031502639"
+      },
+      {
+         "department_no" : "D008",
+         "member" : "031502523"
+      },
+      {
+         "department_no" : "D0007",
+         "member" : "031502627"
+      },
+      {
+         "department_no" : "D014",
+         "member" : "031502416"
+      },
+      {
+         "department_no" : "D015",
+         "member" : "031502412"
+      },
+      {
+         "department_no" : "D015",
+         "member" : "031502335"
+      },
+      {
+         "department_no" : "D000",
+         "member" : "031502529"
+      },
+      {
+         "department_no" : "D008",
+         "member" : "031502609"
+      },
+      {
+         "department_no" : "D005",
+         "member" : "031502419"
+      },
+      {
+         "department_no" : "D006",
+         "member" : "031502133"
+      },
+      {
+         "department_no" : "D005",
+         "member" : "031502614"
+      },
+      {
+         "department_no" : "D014",
+         "member" : "031502544"
+      },
+      {
+         "department_no" : "D008",
+         "member" : "031502618"
+      },
+      {
+         "department_no" : "D006",
+         "member" : "031502433"
+      },
+      {
+         "department_no" : "D006",
+         "member" : "031502447"
+      },
+      {
+         "department_no" : "D005",
+         "member" : "031502403"
+      },
+      {
+         "department_no" : "D000",
+         "member" : "031502124"
+      },
+      {
+         "department_no" : "D010",
+         "member" : "031502227"
+      },
+      {
+         "department_no" : "D0007",
+         "member" : "031502230"
+      },
+      {
+         "department_no" : "D000",
+         "member" : "031502548"
+      },
+      {
+         "department_no" : "D009",
+         "member" : "031502528"
+      },
+      {
+         "department_no" : "D015",
+         "member" : "031502327"
+      },
+      {
+         "department_no" : "D014",
+         "member" : "031502645"
+      },
+      {
+         "department_no" : "D008",
+         "member" : "031502441"
+      },
+      {
+         "department_no" : "D010",
+         "member" : "031502515"
+      },
+      {
+         "department_no" : "D009",
+         "member" : "031502629"
+      },
+      {
+         "department_no" : "D009",
+         "member" : "031502135"
+      },
+      {
+         "department_no" : "D009",
+         "member" : "031502426"
+      },
+      {
+         "department_no" : "D015",
+         "member" : "031502600"
+      },
+      {
+         "department_no" : "D003",
+         "member" : "031502213"
+      },
+      {
+         "department_no" : "D014",
+         "member" : "031502208"
+      },
+      {
+         "department_no" : "D012",
+         "member" : "031502319"
+      },
+      {
+         "department_no" : "D010",
+         "member" : "031502345"
+      },
+      {
+         "department_no" : "D000",
+         "member" : "031502510"
+      },
+      {
+         "department_no" : "D000",
+         "member" : "031502520"
+      },
+      {
+         "department_no" : "D002",
+         "member" : "031502234"
+      },
+      {
+         "department_no" : "D012",
+         "member" : "031502141"
+      },
+      {
+         "department_no" : "D012",
+         "member" : "031502437"
+      },
+      {
+         "department_no" : "D009",
+         "member" : "031502422"
+      },
+      {
+         "department_no" : "D012",
+         "member" : "031502640"
+      },
+      {
+         "department_no" : "D002",
+         "member" : "031502446"
+      },
+      {
+         "department_no" : "D005",
+         "member" : "031502302"
+      },
+      {
+         "department_no" : "D014",
+         "member" : "031502333"
+      },
+      {
+         "department_no" : "D012",
+         "member" : "031502633"
+      },
+      {
+         "department_no" : "D011",
+         "member" : "031502214"
+      },
+      {
+         "department_no" : "D015",
+         "member" : "031502537"
+      },
+      {
+         "department_no" : "D015",
+         "member" : "031502300"
+      },
+      {
+         "department_no" : "D003",
+         "member" : "031502521"
+      },
+      {
+         "department_no" : "D018",
+         "member" : "031502238"
+      },
+      {
+         "department_no" : "D008",
+         "member" : "031502236"
+      },
+      {
+         "department_no" : "D006",
+         "member" : "031502249"
+      },
+      {
+         "department_no" : "D006",
+         "member" : "031502324"
+      },
+      {
+         "department_no" : "D004",
+         "member" : "031502508"
+      },
+      {
+         "department_no" : "D000",
+         "member" : "031502138"
+      },
+      {
+         "department_no" : "D005",
+         "member" : "031502402"
+      },
+      {
+         "department_no" : "D004",
+         "member" : "031502644"
+      },
+      {
+         "department_no" : "D004",
+         "member" : "031502101"
+      },
+      {
+         "department_no" : "D0007",
+         "member" : "031502443"
+      },
+      {
+         "department_no" : "D003",
+         "member" : "031502240"
+      },
+      {
+         "department_no" : "D012",
+         "member" : "031502527"
+      },
+      {
+         "department_no" : "D006",
+         "member" : "031502210"
+      },
+      {
+         "department_no" : "D006",
+         "member" : "031502349"
+      },
+      {
+         "department_no" : "D002",
+         "member" : "031502418"
+      },
+      {
+         "department_no" : "D003",
+         "member" : "031502242"
+      },
+      {
+         "department_no" : "D010",
+         "member" : "031502218"
+      },
+      {
+         "department_no" : "D002",
+         "member" : "031502322"
+      },
+      {
+         "department_no" : "D012",
+         "member" : "031502410"
+      },
+      {
+         "department_no" : "D008",
+         "member" : "031502430"
+      },
+      {
+         "department_no" : "D018",
+         "member" : "031502646"
+      },
+      {
+         "department_no" : "D018",
+         "member" : "031502533"
+      },
+      {
+         "department_no" : "D002",
+         "member" : "031502621"
+      },
+      {
+         "department_no" : "D009",
+         "member" : "031502123"
+      },
+      {
+         "department_no" : "D0007",
+         "member" : "031502337"
+      },
+      {
+         "department_no" : "D0017",
+         "member" : "031502519"
+      },
+      {
+         "department_no" : "D010",
+         "member" : "031502425"
+      },
+      {
+         "department_no" : "D011",
+         "member" : "031502309"
+      },
+      {
+         "department_no" : "D002",
+         "member" : "031502117"
+      },
+      {
+         "department_no" : "D009",
+         "member" : "031502248"
+      },
+      {
+         "department_no" : "D001",
+         "member" : "031502603"
+      },
+      {
+         "department_no" : "D008",
+         "member" : "031502604"
+      },
+      {
+         "department_no" : "D015",
+         "member" : "031502243"
+      },
+      {
+         "department_no" : "D001",
+         "member" : "031502411"
+      },
+      {
+         "department_no" : "D003",
+         "member" : "031502215"
+      },
+      {
+         "department_no" : "D011",
+         "member" : "031502312"
+      },
+      {
+         "department_no" : "D015",
+         "member" : "031502409"
+      },
+      {
+         "department_no" : "D015",
+         "member" : "031502226"
+      },
+      {
+         "department_no" : "D008",
+         "member" : "031502100"
+      },
+      {
+         "department_no" : "D015",
+         "member" : "031502428"
+      },
+      {
+         "department_no" : "D0007",
+         "member" : "031502448"
+      },
+      {
+         "department_no" : "D004",
+         "member" : "031502107"
+      },
+      {
+         "department_no" : "D0007",
+         "member" : "031502343"
+      },
+      {
+         "department_no" : "D0017",
+         "member" : "031502501"
+      },
+      {
+         "department_no" : "D0017",
+         "member" : "031502346"
+      },
+      {
+         "department_no" : "D010",
+         "member" : "031502304"
+      },
+      {
+         "department_no" : "D010",
+         "member" : "031502622"
+      },
+      {
+         "department_no" : "D011",
+         "member" : "031502200"
+      },
+      {
+         "department_no" : "D001",
+         "member" : "031502144"
+      },
+      {
+         "department_no" : "D003",
+         "member" : "031502320"
+      },
+      {
+         "department_no" : "D012",
+         "member" : "031502420"
+      },
+      {
+         "department_no" : "D001",
+         "member" : "031502328"
+      },
+      {
+         "department_no" : "D011",
+         "member" : "031502115"
+      },
+      {
+         "department_no" : "D010",
+         "member" : "031502541"
+      },
+      {
+         "department_no" : "D011",
+         "member" : "031502440"
+      },
+      {
+         "department_no" : "D010",
+         "member" : "031502549"
+      },
+      {
+         "department_no" : "D012",
+         "member" : "031502503"
+      },
+      {
+         "department_no" : "D000",
+         "member" : "031502507"
+      },
+      {
+         "department_no" : "D012",
+         "member" : "031502104"
+      },
+      {
+         "department_no" : "D0017",
+         "member" : "031502511"
+      },
+      {
+         "department_no" : "D010",
+         "member" : "031502247"
+      },
+      {
+         "department_no" : "D012",
+         "member" : "031502516"
+      },
+      {
+         "department_no" : "D004",
+         "member" : "031502219"
+      },
+      {
+         "department_no" : "D011",
+         "member" : "031502220"
+      },
+      {
+         "department_no" : "D0017",
+         "member" : "031502228"
+      },
+      {
+         "department_no" : "D005",
+         "member" : "031502323"
+      },
+      {
+         "department_no" : "D006",
+         "member" : "031502325"
+      },
+      {
+         "department_no" : "D016",
+         "member" : "031502127"
+      },
+      {
+         "department_no" : "D011",
+         "member" : "031502634"
+      },
+      {
+         "department_no" : "D0017",
+         "member" : "031502607"
+      },
+      {
+         "department_no" : "D003",
+         "member" : "031502637"
+      },
+      {
+         "department_no" : "D004",
+         "member" : "031502400"
+      },
+      {
+         "department_no" : "D008",
+         "member" : "031502232"
+      },
+      {
+         "department_no" : "D006",
+         "member" : "031502217"
+      },
+      {
+         "department_no" : "D016",
+         "member" : "031502334"
+      },
+      {
+         "department_no" : "D000",
+         "member" : "031502206"
+      },
+      {
+         "department_no" : "D011",
+         "member" : "031502137"
+      },
+      {
+         "department_no" : "D003",
+         "member" : "031502216"
+      },
+      {
+         "department_no" : "D0017",
+         "member" : "031502330"
+      },
+      {
+         "department_no" : "D005",
+         "member" : "031502538"
+      },
+      {
+         "department_no" : "D001",
+         "member" : "031502146"
+      },
+      {
+         "department_no" : "D010",
+         "member" : "031502524"
+      },
+      {
+         "department_no" : "D014",
+         "member" : "031502617"
+      },
+      {
+         "department_no" : "D012",
+         "member" : "031502624"
+      },
+      {
+         "department_no" : "D016",
+         "member" : "031502342"
+      },
+      {
+         "department_no" : "D000",
+         "member" : "031502246"
+      },
+      {
+         "department_no" : "D006",
+         "member" : "031502202"
+      },
+      {
+         "department_no" : "D0007",
+         "member" : "031502445"
+      },
+      {
+         "department_no" : "D011",
+         "member" : "031502201"
+      },
+      {
+         "department_no" : "D003",
+         "member" : "031502313"
+      },
+      {
+         "department_no" : "D011",
+         "member" : "031502222"
+      },
+      {
+         "department_no" : "D018",
+         "member" : "031502142"
+      },
+      {
+         "department_no" : "D001",
+         "member" : "031502504"
+      },
+      {
+         "department_no" : "D016",
+         "member" : "031502128"
+      },
+      {
+         "department_no" : "D003",
+         "member" : "031502526"
+      },
+      {
+         "department_no" : "D0017",
+         "member" : "031502225"
+      },
+      {
+         "department_no" : "D001",
+         "member" : "031502311"
+      },
+      {
+         "department_no" : "D016",
+         "member" : "031502121"
+      },
+      {
+         "department_no" : "D014",
+         "member" : "031502424"
+      },
+      {
+         "department_no" : "D004",
+         "member" : "031502612"
+      },
+      {
+         "department_no" : "D005",
+         "member" : "031502145"
+      },
+      {
+         "department_no" : "D014",
+         "member" : "031502310"
+      },
+      {
+         "department_no" : "D016",
+         "member" : "031502131"
+      },
+      {
+         "department_no" : "D010",
+         "member" : "031502109"
+      },
+      {
+         "department_no" : "D010",
+         "member" : "031502442"
+      },
+      {
+         "department_no" : "D014",
+         "member" : "031502423"
+      },
+      {
+         "department_no" : "D0007",
+         "member" : "031502105"
+      },
+      {
+         "department_no" : "D011",
+         "member" : "031502103"
+      },
+      {
+         "department_no" : "D016",
+         "member" : "031502116"
+      },
+      {
+         "department_no" : "D018",
+         "member" : "031502118"
+      },
+      {
+         "department_no" : "D011",
+         "member" : "031502130"
+      },
+      {
+         "department_no" : "D004",
+         "member" : "031502543"
+      },
+      {
+         "department_no" : "D008",
+         "member" : "031502326"
+      },
+      {
+         "department_no" : "D014",
+         "member" : "031502244"
+      },
+      {
+         "department_no" : "D002",
+         "member" : "031502613"
+      },
+      {
+         "department_no" : "D006",
+         "member" : "031502134"
+      },
+      {
+         "department_no" : "D016",
+         "member" : "031502642"
+      },
+      {
+         "department_no" : "D016",
+         "member" : "031502449"
+      },
+      {
+         "department_no" : "D001",
+         "member" : "031502348"
+      },
+      {
+         "department_no" : "D005",
+         "member" : "031502211"
+      },
+      {
+         "department_no" : "D0017",
+         "member" : "031502148"
+      },
+      {
+         "department_no" : "D001",
+         "member" : "031502205"
+      },
+      {
+         "department_no" : "D005",
+         "member" : "031502223"
+      },
+      {
+         "department_no" : "D001",
+         "member" : "031502525"
+      },
+      {
+         "department_no" : "D002",
+         "member" : "031502143"
+      },
+      {
+         "department_no" : "D001",
+         "member" : "031502649"
+      },
+      {
+         "department_no" : "D0007",
+         "member" : "031502308"
+      },
+      {
+         "department_no" : "D004",
+         "member" : "031502434"
+      },
+      {
+         "department_no" : "D0017",
+         "member" : "031502404"
+      },
+      {
+         "department_no" : "D0017",
+         "member" : "031502338"
+      },
+      {
+         "department_no" : "D014",
+         "member" : "031502628"
+      },
+      {
+         "department_no" : "D0017",
+         "member" : "031502119"
+      },
+      {
+         "department_no" : "D008",
+         "member" : "031502438"
+      },
+      {
+         "department_no" : "D016",
+         "member" : "031502636"
+      },
+      {
+         "department_no" : "D009",
+         "member" : "031502540"
+      },
+      {
+         "department_no" : "D016",
+         "member" : "031502531"
+      },
+      {
+         "department_no" : "D003",
+         "member" : "031502417"
+      },
+      {
+         "department_no" : "D003",
+         "member" : "031502149"
+      },
+      {
+         "department_no" : "D010",
+         "member" : "031502635"
+      },
+      {
+         "department_no" : "D014",
+         "member" : "031502120"
+      },
+      {
+         "department_no" : "D000",
+         "member" : "031502316"
+      },
+      {
+         "department_no" : "D013",
+         "member" : "031502641"
+      },
+      {
+         "department_no" : "D013",
+         "member" : "031502638"
+      },
+      {
+         "department_no" : "D0017",
+         "member" : "031502301"
+      },
+      {
+         "department_no" : "D001",
+         "member" : "031502114"
+      },
+      {
+         "department_no" : "D004",
+         "member" : "031502615"
+      },
+      {
+         "department_no" : "D004",
+         "member" : "031502229"
+      },
+      {
+         "department_no" : "D0017",
+         "member" : "031502315"
+      },
+      {
+         "department_no" : "D013",
+         "member" : "031502235"
+      },
+      {
+         "department_no" : "D002",
+         "member" : "031502113"
+      },
+      {
+         "department_no" : "D019",
+         "member" : "031502610"
+      },
+      {
+         "department_no" : "D002",
+         "member" : "031502237"
+      },
+      {
+         "department_no" : "D019",
+         "member" : "031502522"
+      },
+      {
+         "department_no" : "D0017",
+         "member" : "031502126"
+      },
+      {
+         "department_no" : "D013",
+         "member" : "031502542"
+      },
+      {
+         "department_no" : "D005",
+         "member" : "031502623"
+      },
+      {
+         "department_no" : "D019",
+         "member" : "031502602"
+      },
+      {
+         "department_no" : "D008",
+         "member" : "031502414"
+      },
+      {
+         "department_no" : "D003",
+         "member" : "031502436"
+      },
+      {
+         "department_no" : "D019",
+         "member" : "031502431"
+      },
+      {
+         "department_no" : "D019",
+         "member" : "031502630"
+      },
+      {
+         "department_no" : "D013",
+         "member" : "031502318"
+      },
+      {
+         "department_no" : "D019",
+         "member" : "031502406"
+      },
+      {
+         "department_no" : "D019",
+         "member" : "031502535"
+      },
+      {
+         "department_no" : "D013",
+         "member" : "031502125"
+      },
+      {
+         "department_no" : "D013",
+         "member" : "031502147"
+      },
+      {
+         "department_no" : "D013",
+         "member" : "031502601"
+      },
+      {
+         "department_no" : "D019",
+         "member" : "031502539"
+      },
+      {
+         "department_no" : "D004",
+         "member" : "031502317"
+      },
+      {
+         "department_no" : "D016",
+         "member" : "031502405"
+      },
+      {
+         "department_no" : "D013",
+         "member" : "031502536"
+      },
+      {
+         "department_no" : "D019",
+         "member" : "031502647"
+      },
+      {
+         "department_no" : "D019",
+         "member" : "031502517"
+      },
+      {
+         "department_no" : "D019",
+         "member" : "031502620"
+      },
+      {
+         "department_no" : "D019",
+         "member" : "031502129"
+      },
+      {
+         "department_no" : "D013",
+         "member" : "031502606"
+      },
+      {
+         "department_no" : "D019",
+         "member" : "031502439"
+      },
+      {
+         "department_no" : "D013",
+         "member" : "031502233"
+      },
+      {
+         "department_no" : "D018",
+         "member" : "031502611"
+      },
+      {
+         "department_no" : "D003",
+         "member" : "031502336"
+      },
+      {
+         "department_no" : "D009",
+         "member" : "031502415"
+      },
+      {
+         "department_no" : "D009",
+         "member" : "031502203"
+      },
+      {
+         "department_no" : "D016",
+         "member" : "031502625"
+      },
+      {
+         "department_no" : "D016",
+         "member" : "031502307"
+      },
+      {
+         "department_no" : "D000",
+         "member" : "031502239"
+      },
+      {
+         "department_no" : "D013",
+         "member" : "031502546"
+      },
+      {
+         "department_no" : "D018",
+         "member" : "031502534"
+      },
+      {
+         "department_no" : "D019",
+         "member" : "031502140"
+      },
+      {
+         "department_no" : "D004",
+         "member" : "031502513"
+      },
+      {
+         "department_no" : "D000",
+         "member" : "031502204"
+      },
+      {
+         "department_no" : "D0007",
+         "member" : "031502518"
+      },
+      {
+         "department_no" : "D0007",
+         "member" : "031502111"
+      },
+      {
+         "department_no" : "D004",
+         "member" : "031502648"
+      },
+      {
+         "department_no" : "D002",
+         "member" : "031502427"
+      }
+   ],
+   "unlucky_student" : [
+      "031502102",
+      "031502106",
+      "031502108",
+      "031502110",
+      "031502112",
+      "031502122",
+      "031502132",
+      "031502136",
+      "031502139",
+      "031502207",
+      "031502209",
+      "031502212",
+      "031502221",
+      "031502224",
+      "031502231",
+      "031502241",
+      "031502245",
+      "031502303",
+      "031502305",
+      "031502306",
+      "031502314",
+      "031502321",
+      "031502329",
+      "031502331",
+      "031502332",
+      "031502339",
+      "031502340",
+      "031502341",
+      "031502347",
+      "031502401",
+      "031502407",
+      "031502408",
+      "031502413",
+      "031502429",
+      "031502432",
+      "031502435",
+      "031502444",
+      "031502500",
+      "031502502",
+      "031502505",
+      "031502506",
+      "031502509",
+      "031502514",
+      "031502530",
+      "031502532",
+      "031502545",
+      "031502547",
+      "031502605",
+      "031502608",
+      "031502616",
+      "031502626",
+      "031502631",
+      "031502632",
+      "031502643"
+   ]
+}
