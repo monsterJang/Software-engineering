@@ -23,9 +23,42 @@ Generator::~Generator()
 {
 }
 
-void Generator::Generate(const char *fileToGenerate)
+void Generator::Generate(const char *fileToGenerate, int depNum, int stuNum, int clsNum)
 {
+	setDepartmentNum(depNum);
+	setStudentNum(stuNum);
+	setClassNum(clsNum);
 	generate(fileToGenerate);
+}
+
+void Generator::setDepartmentNum(int depNum)
+{
+	this->departmentNum = depNum;
+}
+
+int Generator::getDepartmentNum()
+{
+	return this->departmentNum;
+}
+
+void Generator::setStudentNum(int stuNum)
+{
+	this->studentNum = stuNum;
+}
+
+int Generator::getStudentNum()
+{
+	return this->studentNum;
+}
+
+void Generator::setClassNum(int clsNum)
+{
+	this->classNum = clsNum;
+}
+
+int Generator::getClassNum()
+{
+	return this->classNum;
 }
 
 /*

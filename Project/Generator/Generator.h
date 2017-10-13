@@ -8,16 +8,22 @@
 #include <fstream>
 #include <algorithm>
 using namespace std;
-const int departmentNum = 20;
-const int studentNum = 300;
-const int classNum = 6;
 class Generator
 {
 public:
 	Generator();
 	~Generator();
-	void Generate(const char *fileToGenerate);
+	void Generate(const char *fileToGenerate, int depNum = 20, int stuNum = 300, int clsNum = 6);
+	void setDepartmentNum(int depNum);
+	int getDepartmentNum();
+	void setStudentNum(int stuNum);
+	int getStudentNum();
+	void setClassNum(int clsNum);
+	int getClassNum();
 private:
+	int departmentNum = 20;
+	int studentNum = 300;
+	int classNum = 6;
 	string numToTime(int num);
 	string getStudentNo(int num);
 	void generateStudent(Json::Value & root);
