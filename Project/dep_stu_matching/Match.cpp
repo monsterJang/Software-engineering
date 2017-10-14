@@ -28,17 +28,22 @@ void Match::init()
 	}
 }
 
+/*
+ @param  infile, the file to read in
+		 outfile, thle file to write out
+		 Pattern, determine the pattern, 1->App first(default), 2->Time first, 3->Tag first
+*/
 void Match::stu_dep_matching(const char *infile, const char *outfile, int Pattern)
 {
 	switch (Pattern)
 	{
-	case 1:  // APP first
+	case 1:  // App first
 		setAPP_COEF(20); setTIME_COEF(5); setTAG_COEF(1);
 		break;
-	case 2:  // time first
+	case 2:  // Time first
 		setAPP_COEF(5); setTIME_COEF(20); setTAG_COEF(1);
 		break;
-	case 3:  // tag first
+	case 3:  // Tag first
 		setAPP_COEF(5); setTIME_COEF(1); setTAG_COEF(20);
 		break;
 	default:
@@ -81,6 +86,10 @@ void Match::setTIME_COEF(int coef)
 	this->TIME_COEF = coef;
 }
 
+/*
+ @param  num, the time mapped to a num, range[0, 1339]
+ @return  ret, the real time, format "XX:XX"
+*/
 string Match::numToTime(int num)
 {
 	num %= 1440;
@@ -91,6 +100,10 @@ string Match::numToTime(int num)
 	return ret;
 }
 
+/*
+ @param  s, the real time, format "XX:XX"
+ @return  ret, the num that the input time mapped to
+*/
 int Match::timeToNum(string s)
 {
 	int ret = 0;
@@ -100,6 +113,10 @@ int Match::timeToNum(string s)
 	return h * 60 + m;
 }
 
+/*
+ @param  s, the week abbreviation
+ @return  the index of the input week
+*/
 int Match::getWeekNo(string s)
 {
 	if (!s.compare("Sun"))  return 0;
@@ -111,6 +128,10 @@ int Match::getWeekNo(string s)
 	else return 6;
 }
 
+/*
+ @param  s, the duration, format "XXX.XX:XX~XX:XX"
+ @return  pair<ret1, ret2>, ret1 is the num that the begin date mapped to, ret2 is the num that the end date mapped to
+*/
 pair<int, int> Match::dateToNum(string s)
 {
 	int ret1 = 0, ret2 = 0;
@@ -131,6 +152,10 @@ pair<int, int> Match::dateToNum(string s)
 	return make_pair(ret1, ret2);
 }
 
+/*
+ @param  infile, the file to read in
+ @function  the translate the input file to Json format
+*/
 void Match::translate(const char *infile)
 {
 	Json::Reader reader;
