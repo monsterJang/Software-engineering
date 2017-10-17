@@ -12,6 +12,7 @@ project management
 ### **version 1.2**
 
 - **update:**
+	- 为函数适当添加注释
 
 ---
 
